@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+  <qresource prefix="/">
+    <file>ui/modules/Konami/Konami.qml</file>
+    <file>ui/modules/Konami/qmldir</file>
+    <file>ui/views/MainWindow.qml</file>
+  </qresource>
+</RCC>
